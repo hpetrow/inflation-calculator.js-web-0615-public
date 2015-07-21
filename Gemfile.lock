@@ -100,3 +100,6 @@ DEPENDENCIES
   selenium-webdriver
   sinatra
   sinatra-activerecord
+
+BUNDLED WITH
+   1.10.2
